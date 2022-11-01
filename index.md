@@ -5,9 +5,9 @@ description: Livro - Explicando, Application Security - Segurança de software �
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
-show_call_box: true
+show_call_box: false
 ---
 
 # Livro - Explicando, Application Security
 
-Livro - Explicando, Application Security - Segurança de software é uma jornada, e este livro é o seu guia
+Segurança de software é uma jornada, e este livro é o seu guia
