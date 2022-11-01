@@ -5,7 +5,7 @@ description: Livro - Explicando, Application Security - Seguran√ßa de software √
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
-show_call_box: false
+show_call_box: true
 ---
 
 # Livro - Explicando, Application Security
