@@ -1,6 +1,6 @@
-baseurl: '/'
+baseurl: '/livro'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Livro - Explicando, Application Security'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
