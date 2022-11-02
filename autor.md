@@ -2,7 +2,7 @@
 title: Autor
 layout: teams
 description: Autor
-permalink: "/team/"
+permalink: "/autor/"
 intro_image: "images/illustrations/capa.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
