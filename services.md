@@ -2,7 +2,7 @@
 title: Capítulos
 layout: services
 description: Capítulos
-intro_image: "images/illustrations/reading.svg"
+intro_image: "images/illustrations/capa.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---

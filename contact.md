@@ -4,13 +4,8 @@ layout: contact
 description: Contato
 ---
 
-Aqui texto sobre o contato
+Você pode entrar em contato comigo para tirar qualquer dúvida sobre o projeto.
 
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+Eu sugiro [e-mail](mailto:ccassio@cassiobp.com.b), é mais rápido e não "invade" tanto minha rotina.
+
+Mas você também poder dar um "ping" rápido no [whatsapp](tel:5511999430820) que eu tento te responder ok?
