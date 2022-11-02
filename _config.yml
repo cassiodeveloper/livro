@@ -14,7 +14,7 @@ home:
   limit_capitulos: 6
 
 collections:
-  services:
+  capitulos:
     output: true
     sort_by: weight
   team:
