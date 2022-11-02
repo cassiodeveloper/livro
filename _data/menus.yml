@@ -6,7 +6,7 @@ main:
     url: "/autor/"
     weight: 3
   - name: "Sobre"
-    url: "/about/"
+    url: "/sobre/"
     weight: 4
   - name: "Contato"
     url: "/contato/"
