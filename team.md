@@ -1,12 +1,12 @@
 ---
-title: Team
+title: Autor
 layout: teams
-description: Team
+description: Autor
 permalink: "/team/"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Meet The Team
+# Conheça o autor
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+Aqui vai uma descrição sobre o autor Cássio B. Pereira
