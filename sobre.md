@@ -9,6 +9,8 @@ O projeto do livro Explicando, Application Security é diferente de tudo que já
 
 Basicamente eu vou escrever o livro num processo open e colaborativo.
 
+![Capa](images/illustrations/capa.jpg)
+
 **Open**, pois você que [fizer a reserva na pré venda](https://book.stripe.com/bIY4iT8h78OkbbG000) poderá ler os capítulos durante o processo de produção, ou seja, enquanto escrevo. Não vai precisar esperar o livro versão final ficar pronto. Claro, quando ficar pronto você receberá primeiro o acesso à todos os formatos disponíveis, e também a atualizações futuras.
 
 **Colaborativo**, você que [fizer a reserva na pré venda](https://book.stripe.com/bIY4iT8h78OkbbG000), também poderá sugerir capítulos (temas / tópicos) para que eu escreva. Ou seja, além dos [capítulos](https://cassiodeveloper.com.br/livro/capitulos/) base do livro, você poderá ainda ler sobre os capítuos que você sugeriu. Claro que, irei fazer uma curadoria na lista de sugestões mas, não é fantástico? Um livro escrito com base no que os leitores pediram?
