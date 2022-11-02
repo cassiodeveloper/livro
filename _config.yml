@@ -23,12 +23,12 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "services"
+      type: "capitulos"
     values:
       layout: "service"
   - scope:
       path: ""
-      type: "team"
+      type: "autor"
     values:
       layout: "team"
 
