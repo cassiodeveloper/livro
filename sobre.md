@@ -13,7 +13,7 @@ Basicamente eu vou escrever o livro num processo open e colaborativo.
 
 **Colaborativo**, você que [fizer a reserva na pré venda](https://book.stripe.com/bIY4iT8h78OkbbG000), também poderá sugerir capítulos (temas / tópicos) para que eu escreva. Ou seja, além dos [capítulos](https://cassiodeveloper.com.br/livro/capitulos/) base do livro, você poderá ainda ler sobre os capítuos que você sugeriu. Claro que, irei fazer uma curadoria na lista de sugestões mas, não é fantástico? Um livro escrito com base no que os leitores pediram?
 
-# Objectivos
+# Objetivos
 
 Meu principal objetivo com este livro é disseminar [ainda mais](https://www.youtube.com/@CassioBatistaPereira) a cultura de desenvolvimento seguro. É muito raro encontrar este tipo de conteúdo em português e até mesmo em inglês, já que o mercado aumenta a demanda a cada dia, faltam profissionais para atuar nesta área.
 
