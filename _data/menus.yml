@@ -1,6 +1,6 @@
 main:
   - name: "Capítulos"
-    url: "/services/"
+    url: "/capitulos/"
     weight: 2
   - name: "Autor"
     url: "/team/"
