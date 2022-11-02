@@ -1,15 +1,15 @@
 main:
   - name: "Capítulos"
-    url: "/capitulos/"
+    url: "/services/"
     weight: 2
   - name: "Autor"
-    url: "/autor/"
+    url: "/team/"
     weight: 3
   - name: "Sobre"
-    url: "/sobre/"
+    url: "/about/"
     weight: 4
   - name: "Contato"
-    url: "/contato/"
+    url: "/contact/"
     weight: 5
 
 footer:
@@ -17,5 +17,5 @@ footer:
     url: "/"
     weight: 1
   - name: "Contato"
-    url: "/contato/"
+    url: "/contact/"
     weight: 2
