@@ -7,7 +7,10 @@
       </a>
     </div>
     <div class="logo-mobile">
-      <a href="{{ site.baseurl }}"><img width="{{ site.logo.mobile_width }}" height="{{ site.logo.mobile_height }}" alt="{{ site.title }}" src="{{ site.logo.mobile | relative_url }}" /></a>
+      <a href="{{ site.baseurl }}">
+        <!-- <img width="{{ site.logo.mobile_width }}" height="{{ site.logo.mobile_height }}" alt="{{ site.title }}" src="{{ site.logo.mobile | relative_url }}" /> -->
+        <h3>{{ site.title }}</h3>
+      </a>
     </div>
     {% include main-menu.html %}
     {% include hamburger.html %}
