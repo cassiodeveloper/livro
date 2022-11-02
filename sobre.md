@@ -5,81 +5,22 @@ description: Sobre o projeto
 bodyClass: page-about
 ---
 
-Aqui vai uma explicação sobre o projeto do livro
+O projeto do livro Explicando, Application Security é diferente de tudo que já fiz.
 
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
+Basicamente eu vou escrever o livro num processo open e colaborativo.
 
-# Objectives
+**Open**, pois você que [fizer a reserva na pré venda](https://book.stripe.com/bIY4iT8h78OkbbG000) poderá ler os capítulos durante o processo de produção, ou seja, enquanto escrevo. Não vai precisar esperar o livro versão final ficar pronto. Claro, quando ficar pronto você receberá primeiro o acesso à todos os formatos disponíveis, e também a atualizações futuras.
 
-Financial accounting and financial reporting are often used as synonyms.
+**Colaborativo**, você que [fizer a reserva na pré venda](https://book.stripe.com/bIY4iT8h78OkbbG000), também poderá sugerir capítulos (temas / tópicos) para que eu escreva. Ou seja, além dos [capítulos](https://cassiodeveloper.com.br/livro/capitulos/) base do livro, você poderá ainda ler sobre os capítuos que você sugeriu. Claro que, irei fazer uma curadoria na lista de sugestões mas, não é fantástico? Um livro escrito com base no que os leitores pediram?
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+# Objectivos
 
-## Relevance
+Meu principal objetivo com este livro é disseminar [ainda mais](https://www.youtube.com/@CassioBatistaPereira) a cultura de desenvolvimento seguro. É muito raro encontrar este tipo de conteúdo em português e até mesmo em inglês, já que o mercado aumenta a demanda a cada dia, faltam profissionais para atuar nesta área.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+Outro ponto importante é, nossa vida é controlada por softwares, eles precisam estar o mais seguro possível. Por tanto, é importante que todos envolvidos no ciclo de desenvolvimento de software (SDL), leiam e tenham acesso à este tipo de conteúdo.
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+# Importante
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+O preço final do livro, será bem maior que o de [pré venda](https://book.stripe.com/bIY4iT8h78OkbbG000), por tanto eu sugiro que você compre agora mesmo e não corra o risco de pagar mais caro depois.
 
-## Faithful Representation
-
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+E se você leu até aqui, toma ainda 5% off. Só utilizar o cupom 5OFF [neste link](https://book.stripe.com/bIY4iT8h78OkbbG000).
