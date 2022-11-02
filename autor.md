@@ -1,5 +1,5 @@
 ---
-title: Livro - Explicando, Application Security | Autor
+title: Autor
 layout: teams
 description: Autor
 permalink: "/autor/"

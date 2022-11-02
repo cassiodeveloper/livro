@@ -1,5 +1,5 @@
 ---
-title: Livro - Explicando, Application Security | Capítulos
+title: Capítulos
 layout: services
 description: Capítulos
 intro_image: "images/illustrations/capa.jpg"
