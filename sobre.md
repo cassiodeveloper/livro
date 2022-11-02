@@ -1,5 +1,5 @@
 ---
-title: Sobre
+title: Livro - Explicando, Application Security | Sobre
 layout: page
 description: Sobre o projeto
 bodyClass: page-about
