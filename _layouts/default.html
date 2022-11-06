@@ -17,7 +17,7 @@
   {% if page.description %}<meta name="description" content="{{ page.description }}" />{% endif %}
   {% if page.meta_title %}<meta property="og:title" content="{{ page.meta_title }}"/>{% else %}<meta property="og:title" content="{{ page.title }}"/>{% endif %}
   <meta property="og:type" content="website"/>
-  <meta property="og:url" content="{{ absolute_url }}"/>
+  <meta property="og:url" content="{{ page.url }}"/>
   {% if page.intro_image %}<meta property="og:image" content="{{ page.intro_image | absolute_url }}"/>{% endif %}
   {% if page.intro_image %}<meta property="twitter:image" content="{{ page.intro_image | absolute_url }}"/>{% endif %}
   {% if page.description %}<meta property="og:description" content="{{ page.description }}"/>{% endif %}
