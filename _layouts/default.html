@@ -18,8 +18,8 @@
   {% if page.meta_title %}<meta property="og:title" content="{{ page.meta_title }}"/>{% else %}<meta property="og:title" content="{{ page.title }}"/>{% endif %}
   <meta property="og:type" content="website"/>
   <meta property="og:url" content="{{ absolute_url }}"/>
-  {% if page.intro_image %}<meta property="og:image" content="{{ page.image | absolute_url }}"/>{% endif %}
-  {% if page.intro_image %}<meta property="twitter:image" content="{{ page.image | absolute_url }}"/>{% endif %}
+  {% if page.intro_image %}<meta property="og:image" content="{{ page.intro_image | absolute_url }}"/>{% endif %}
+  {% if page.intro_image %}<meta property="twitter:image" content="{{ page.intro_image | absolute_url }}"/>{% endif %}
   {% if page.description %}<meta property="og:description" content="{{ page.description }}"/>{% endif %}
   <meta name="twitter:card" content="summary"/>
   {% if site.data.seo.meta_twitter_site %}<meta name="twitter:site" content="{{ site.seo.meta_twitter_site }}"/>{% endif %}
