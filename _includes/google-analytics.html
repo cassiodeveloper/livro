@@ -12,16 +12,14 @@
       gtag('config', '{{ $gid }}');
     </script>
     {% elsif site.data.seo.google_analytics_id %}
-    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.data.seo.google_analytics_id }}"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-996163258"></script>
     <script>
-      window.dataLayer = window.dataLayer || [];
-
+      window.dataLayer = window.dataLayer || []; 
       function gtag() {
         dataLayer.push(arguments);
-      }
-      gtag('js', new Date());
-      gtag('config', '{{ site.data.seo.google_analytics_id }}');
-      gtag('config', 'AW-996163258');
+      } 
+      gtag('js', new Date()); 
+      gtag('config', 'AW-996163258'); 
     </script>
     {% endif %}
 {% endif %}
