@@ -11,9 +11,9 @@ Basicamente eu vou escrever o livro num processo open e colaborativo.
 
 ![Capa](images/illustrations/capa.jpg)
 
-**Open**, pois você que [fizer a reserva na pré venda](https://buy.stripe.com/3csg1B1SJd4Aa7C3ci) poderá ler os capítulos durante o processo de produção, ou seja, enquanto escrevo. Não vai precisar esperar o livro versão final ficar pronto. Claro, quando ficar pronto você receberá primeiro o acesso à todos os formatos disponíveis, e também a atualizações futuras.
+**Open**, pois você que [fizer a reserva na pré venda](https://buy.stripe.com/fZedTt68Z0hO3JeeV2) poderá ler os capítulos durante o processo de produção, ou seja, enquanto escrevo. Não vai precisar esperar o livro versão final ficar pronto. Claro, quando ficar pronto você receberá primeiro o acesso à todos os formatos disponíveis, e também a atualizações futuras.
 
-**Colaborativo**, você que [fizer a reserva na pré venda](https://buy.stripe.com/3csg1B1SJd4Aa7C3ci), também poderá sugerir capítulos (temas / tópicos) para que eu escreva. Ou seja, além dos [capítulos](https://cassiodeveloper.com.br/livro/capitulos/) base do livro, você poderá ainda ler sobre os capítuos que você sugeriu. Claro que, irei fazer uma curadoria na lista de sugestões mas, não é fantástico? Um livro escrito com base no que os leitores pediram?
+**Colaborativo**, você que [fizer a reserva na pré venda](https://buy.stripe.com/fZedTt68Z0hO3JeeV2), também poderá sugerir capítulos (temas / tópicos) para que eu escreva. Ou seja, além dos [capítulos](https://cassiodeveloper.com.br/livro/capitulos/) base do livro, você poderá ainda ler sobre os capítuos que você sugeriu. Claro que, irei fazer uma curadoria na lista de sugestões mas, não é fantástico? Um livro escrito com base no que os leitores pediram?
 
 # Objetivos
 
@@ -23,6 +23,6 @@ Outro ponto importante é, nossa vida é controlada por softwares, eles precisam
 
 # Importante
 
-O preço final do livro, será bem maior que o de [pré venda](https://buy.stripe.com/3csg1B1SJd4Aa7C3ci), por tanto eu sugiro que você compre agora mesmo e não corra o risco de pagar mais caro depois.
+O preço final do livro, será bem maior que o de [pré venda](https://buy.stripe.com/fZedTt68Z0hO3JeeV2), por tanto eu sugiro que você compre agora mesmo e não corra o risco de pagar mais caro depois.
 
-E se você leu até aqui, toma ainda 5% off. Só utilizar o cupom 5OFF [neste link](https://buy.stripe.com/3csg1B1SJd4Aa7C3ci).
+E se você leu até aqui, toma ainda 5% off. Só utilizar o cupom 5OFF [neste link](https://buy.stripe.com/fZedTt68Z0hO3JeeV2).
