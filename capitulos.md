@@ -16,4 +16,4 @@ Isso quer dizer que o livro terá uma estrutura central, para abordar o tema App
 Mas você pode sugerir os capítulos que quiser para eu escrever para você, 
 vou compilar uma lista com os melhores e irá para produção também.
 
-[Compre agora](https://buy.stripe.com/fZedTt68Z0hO3JeeV2) mesmo e faça parte desse projeto incrível.
+[Compre agora](https://buy.stripe.com/9AQ8z9eFv9So6Vq009) mesmo e faça parte desse projeto incrível.
