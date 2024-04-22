@@ -1,7 +1,7 @@
 [
   {
     "title": "Acesso exclusivo",
-    "description": "Tenha acesso aos capítulos do livro, durante a produção.",
+    "description": "Acesso imediato ao livro completo.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Feito para você",
-    "description": "Sugira temas para que eu inclua no livro, você participa da produção.",
+    "title": "Feito por e para você",
+    "description": "Com temas sugeridos por você durante a produção.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
